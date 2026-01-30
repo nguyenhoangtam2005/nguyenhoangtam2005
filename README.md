@@ -1,8 +1,8 @@
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Profile banner" width="100%">
 
 ### Hi Nguyen Tam 👋 <br>
-UX/UI Designer with a strong focus on user-centered problem solving and practical product thinking.  
-Passionate about designing clear, usable, and scalable interfaces — and taking them one step further by implementing them into real, working software.
+UX/UI Designer specializing in user-centered problem solving, UX strategy, and practical product thinking.
+Strong expertise in UX/UI design, supported by basic frontend knowledge to better understand technical constraints and implementation feasibility.
 
 Strong foundation in frontend development with hands-on experience in  
 <p>
@@ -18,10 +18,12 @@ Strong foundation in frontend development with hands-on experience in
 
 
 
-Driven by UX logic, system thinking, and real user behavior rather than visual trends alone.  
-Always questioning *why* a feature exists, *how* users actually interact with it, and *what* can be simplified or improved.
+Focused on designing clear, usable, and scalable interfaces grounded in UX logic, system thinking, and real user behavior — not visual trends alone.
+Constantly questioning why a feature exists, how users interact with it, and what can be simplified or improved.
 
-Comfortable working across the full flow — from understanding user problems, structuring information, designing interfaces, to translating designs into clean, maintainable frontend code.  
-Believer in clarity over complexity, usability over decoration, and building products that actually get used.
+Experienced across the core UX/UI workflow — from problem discovery and information architecture to interface design and usability refinement.
 
-Continuously improving both design thinking and frontend skills to become a stronger product-focused UX/UI designer who understands how things are truly built.
+Frontend fundamentals (HTML, CSS, basic JavaScript) are used as a supporting skill to communicate effectively with developers and ensure designs are realistic and buildable.
+
+Value clarity over complexity, usability over decoration, and product outcomes over visual polish.
+Continuously deepening UX/UI expertise while maintaining and strengthening frontend basics to design better, more practical products.
