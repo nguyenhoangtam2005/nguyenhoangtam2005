@@ -6,12 +6,15 @@ Passionate about designing clear, usable, and scalable interfaces — and taking
 
 Strong foundation in frontend development with hands-on experience in  
 <p>
-  <img src="https://github.com/kallioli/static-content/blob/main/img/logo/html5-logo.png?raw=true" height="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60" style="margin-left:20px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" style="margin-left:20px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" style="margin-left:20px">
-  <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" height="60" style="margin-left:20px">
+  <img src="https://github.com/kallioli/static-content/blob/main/img/logo/html5-logo.png?raw=true" height="60" style="margin-right:32px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60" style="margin-right:32px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" style="margin-right:32px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" style="margin-right:32px">
+  <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" height="60" style="margin-right:32px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/330px-Figma-logo.svg.png" height="60">
 </p>
+
+
 
 
 
