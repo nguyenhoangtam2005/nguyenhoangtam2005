@@ -1,4 +1,4 @@
-<img src="YOUR_BANNER_IMAGE_HERE" alt="Profile banner">
+<img src="https://photos.fife.usercontent.google.com/pw/AP1GczMKTMezRpD6GOa-wi4yAq5uuUlg1wIV5icyryi2SEcohhRix-L3ftsw=w1728-h973-s-no-gm?authuser=1" alt="Profile banner">
 
 UX/UI Designer with a strong focus on user-centered problem solving and practical product thinking.  
 Passionate about designing clear, usable, and scalable interfaces — and taking them one step further by implementing them into real, working software.
