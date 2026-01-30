@@ -1,22 +1,19 @@
-<img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/header.jpg" alt="Profile banner">
+<img src="YOUR_BANNER_IMAGE_HERE" alt="Profile banner">
 
-Currently working as a UX/UI designer with basic frontend development skills.
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" height="20"> HTML
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" height="20"> CSS
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" height="20"> JavaScript
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="" height="20"> Git
+UX/UI Designer with a strong focus on user-centered problem solving and practical product thinking.  
+Passionate about designing clear, usable, and scalable interfaces — and taking them one step further by implementing them into real, working software.
 
-Focused on UX/UI thinking, interface logic, and system consistency.
-Strong attention to usability, clarity, and building interfaces that align with real user behavior and product goals.
+Strong foundation in frontend development with hands-on experience in  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="20"> HTML, 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20"> CSS, 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="20"> JavaScript,  
+and version control using 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="20"> Git.
 
-Fast learner and continuously improving frontend fundamentals while working on real-world products and practical projects.
+Driven by UX logic, system thinking, and real user behavior rather than visual trends alone.  
+Always questioning *why* a feature exists, *how* users actually interact with it, and *what* can be simplified or improved.
 
-<!-- https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true -->
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/UX%2FUI-Designer-_.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Frontend-Basic-_.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/UX--Focused-_.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/System--Thinking-_.svg"></a>
-</p>
+Comfortable working across the full flow — from understanding user problems, structuring information, designing interfaces, to translating designs into clean, maintainable frontend code.  
+Believer in clarity over complexity, usability over decoration, and building products that actually get used.
 
-<hr>
+Continuously improving both design thinking and frontend skills to become a stronger product-focused UX/UI designer who understands how things are truly built.
