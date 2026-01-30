@@ -4,7 +4,7 @@
 UX/UI Designer specializing in user-centered problem solving, UX strategy, and practical product thinking.
 Strong expertise in UX/UI design, supported by basic frontend knowledge to better understand technical constraints and implementation feasibility.
 
-Strong foundation in frontend development with hands-on experience in  
+With a foundation in HTML and CSS, along with a basic understanding of JavaScript, you can support the implementation of real-world user interfaces.
 <p>
   <img src="https://github.com/kallioli/static-content/blob/main/img/logo/html5-logo.png?raw=true" height="60" style="margin-right:32px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60" style="margin-right:32px">
