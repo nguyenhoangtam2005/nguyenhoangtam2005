@@ -1,15 +1,22 @@
-### Hi, I'm Hoang Tam 👋
+<img src="https://raw.githubusercontent.com/DennisHartrampf/DennisHartrampf/master/img/header.jpg" alt="Profile banner">
 
-UX/UI Designer and Frontend Developer (basic) currently working on real-world products.  
-Focused on building interfaces that are clear, usable, and logically structured.
+Currently working as a UX/UI designer with basic frontend development skills.
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" height="20"> HTML
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" height="20"> CSS
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" height="20"> JavaScript
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="" height="20"> Git
 
-Strong interest in **UX/UI thinking**, **frontend fundamentals**, and how systems are designed from both user and technical perspectives.  
-I care about details, consistency, and long-term maintainability rather than quick hacks.
+Focused on UX/UI thinking, interface logic, and system consistency.
+Strong attention to usability, clarity, and building interfaces that align with real user behavior and product goals.
 
-#### Tech Stack
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="24" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="24" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="24" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="24" />
+Fast learner and continuously improving frontend fundamentals while working on real-world products and practical projects.
 
----
+<!-- https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true -->
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/UX%2FUI-Designer-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Frontend-Basic-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/UX--Focused-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/System--Thinking-_.svg"></a>
+</p>
+
+<hr>
