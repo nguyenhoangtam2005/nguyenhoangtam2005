@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Profile banner" width="100%">
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" alt="Profile banner" width="100%">
 
 ### Hi Nguyen Tam 👋 <br>
 UX/UI Designer with a strong focus on user-centered problem solving and practical product thinking.  
