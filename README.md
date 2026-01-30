@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nguyenhoangtam2005/nguyenhoangtam2005/main/img/banner.jpg" alt="Profile banne">
+<img src="./img/banner.jpg" alt="Profile banne">
 
 UX/UI Designer with a strong focus on user-centered problem solving and practical product thinking.  
 Passionate about designing clear, usable, and scalable interfaces — and taking them one step further by implementing them into real, working software.
