@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" alt="Profile banner" width="100%">
 
-HI! My name is Nguyen Tam <br>
+### Hi Nguyen Tam 👋 <br>
 UX/UI Designer with a strong focus on user-centered problem solving and practical product thinking.  
 Passionate about designing clear, usable, and scalable interfaces — and taking them one step further by implementing them into real, working software.
 
