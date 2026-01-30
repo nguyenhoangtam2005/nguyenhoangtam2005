@@ -5,11 +5,14 @@ UX/UI Designer with a strong focus on user-centered problem solving and practica
 Passionate about designing clear, usable, and scalable interfaces — and taking them one step further by implementing them into real, working software.
 
 Strong foundation in frontend development with hands-on experience in  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="20"> HTML, 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="20"> CSS, 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="20"> JavaScript,  
-and version control using 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="20"> Git.
+<p>
+  <img src="https://github.com/kallioli/static-content/blob/main/img/logo/html5-logo.png?raw=true" height="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60" style="margin-left:20px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" style="margin-left:20px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" style="margin-left:20px">
+</p>
+
+
 
 Driven by UX logic, system thinking, and real user behavior rather than visual trends alone.  
 Always questioning *why* a feature exists, *how* users actually interact with it, and *what* can be simplified or improved.
