@@ -10,6 +10,7 @@ Strong foundation in frontend development with hands-on experience in
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="60" style="margin-left:20px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" style="margin-left:20px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" style="margin-left:20px">
+  <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" height="60" style="margin-left:20px">
 </p>
 
 
